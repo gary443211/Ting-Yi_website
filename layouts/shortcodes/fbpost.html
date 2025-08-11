@@ -1,0 +1,5 @@
+{{/* 用法：{{< fbpost "https://www.facebook.com/YourPage/posts/1234567890" width="600" >}} */}}
+<div class="fb-post"
+     data-href="{{ .Get "href" }}"
+     {{ with .Get "width" }}data-width="{{ . }}"{{ end }}>
+</div>

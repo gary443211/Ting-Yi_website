@@ -1,45 +1,31 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Richard Hendricks",
-    "label": "Programmer",
-    "image": "https://hugo-theme-gruvbox.schnerring.net/richard-hendricks.webp",
-    "email": "richard.hendricks@piedpiper.com",
-    "phone": "(912) 555-4321",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory.",
+    "name": "陳亭屹 Ting-Yi Chen",
+    "label": "男中音 Operatic Baritone",
+    "image": "https://scontent.ftpe16-1.fna.fbcdn.net/v/t39.30808-6/528746852_3545784382230432_1806309580037734963_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=1Qcc2ud7KJIQ7kNvwFXIoJU&_nc_oc=AdnLjD1_Zeu1rOF44Penppp6MYbjrPdfM734Ijz1JKs4edRqYb6e9G6B298oibbIv0g&_nc_zt=23&_nc_ht=scontent.ftpe16-1.fna&_nc_gid=FTvwe_VZUb3AuL8jo1UbVA&oh=00_AfVU3gzVYTypHeF0JBYhhRyTpHDCDG7T-tXlf0hzqX8jMw&oe=689C065A",
+    "email": "✉ simon5872349@gmail.com",
+    "phone": "",
+    "summary": "畢業於國立清華大學音樂系，後於美國紐約曼尼斯音樂學院取得碩士學位，現於美國密西根州立大學獲得全額獎學金攻讀音樂藝術博士學位（聲樂演唱）。  他活躍於國內外歌劇舞台，曾於林肯中心與曼尼斯管弦樂團合作演出《Sinfonia of Berio》，擔任男低音獨唱；於紐約阿莫爾歌劇院擔綱演出莫扎特歌劇《唐·喬望尼》中的雷波雷洛（Leporello），以及普契尼歌劇《蝴蝶夫人》中的僧侶（Bonze）與山鳥親王（Prince Yamadori）。此外，他還曾受邀至意大利特倫蒂諾音樂節，於莫扎特歌劇《費加洛的婚禮》中飾演主角費加洛（Figaro）。  2023年，於國立清華大學校慶音樂會於台中國家歌劇院演出，擔任貝多芬《合唱幻想曲》之男低音獨唱。2022年，他獲選中華民國聲樂家協會年度新秀，並於台北國家音樂廳演出。2019年，他曾赴中國廈門參與第十四屆兩岸大學校園歌手邀請賽，榮獲季軍。",
     "location": {
-      "city": "San Francisco"
+      "city": "Taiwan, Hsinchu"
     },
     "profiles": [
       {
-        "network": "GitHub",
-        "username": "hugo-theme-gruvbox",
-        "url": "https://github.com/schnerring/hugo-theme-gruvbox"
+        "network": "Facebook",
+        "url": "https://www.facebook.com/listenyeemusic"
       },
       {
-        "network": "GitHub",
-        "username": "hugo-mod-json-resume",
-        "url": "https://github.com/schnerring/hugo-mod-json-resume"
+        "network": "instagram",
+        "url": "https://www.instagram.com/yee.music/"
       },
       {
-        "network": "X",
-        "url": "https://x.com/SiliconHBO"
+        "network": "threads",
+        "url": "https://www.threads.com/@yee.music?xmt=AQF0laoDNVkwDIvR_KOMQ_1IGCjBgQuhGRZ4xohsjk4wP3I"
       },
       {
-        "network": "fandom",
-        "url": "https://silicon-valley.fandom.com/wiki/Richard_Hendricks"
-      },
-      {
-        "network": "HBO",
-        "url": "https://www.hbo.com/silicon-valley"
-      },
-      {
-        "network": "IMDB",
-        "url": "https://www.imdb.com/title/tt2575988/"
-      },
-      {
-        "network": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/List_of_Silicon_Valley_characters#Richard_Hendricks"
+        "network": "youtube",
+        "url": "https://www.youtube.com/@tingyichenbaritone"
       }
     ]
   },
