@@ -167,3 +167,7 @@ enableRobotsTXT = true
     weight = 20
     [languages.de.params.jsonResume]
       present = "heute"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
