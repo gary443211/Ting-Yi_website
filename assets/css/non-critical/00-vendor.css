@@ -1,14 +1,14 @@
 /*! purgecss start ignore */
 
-{{ range $.Site.Params.prism.plugins }}
+/*{{ range $.Site.Params.prism.plugins }}
   {{ $path := printf "prismjs/plugins/%s/prism-%s.css" . . }}
   {{ $pluginCSS := resources.Get $path }}
   {{ if $pluginCSS }}
     {{ $importPath := trim $pluginCSS.RelPermalink "/" }}
-    {{ printf "/* Import stylesheet for Prism plugin '%s' from '%s' */" . $importPath }}
+    {{ printf " Import stylesheet for Prism plugin '%s' from '%s' " . $importPath }}
     @import "{{ $importPath }}";
   {{ end }}
-{{ end }}
+{{ end }}*/
 
 /* Prism Font */
 code,
