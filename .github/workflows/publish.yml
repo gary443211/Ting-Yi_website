@@ -1,3 +1,4 @@
+'''
 name: Publish Hugo Site
 
 on:
@@ -84,3 +85,4 @@ jobs:
           projectName: hugo-theme-gruvbox
           directory: ./public
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+'''
