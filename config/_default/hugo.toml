@@ -1,4 +1,4 @@
-baseURL = "https://gary443211.github.io/Ting-Yi_website/"
+baseURL = "http://localhost"
 copyright = "Copyright © 2021"
 title = "陳亭屹 Ting-Yi Chen"
 #paginate = 10
@@ -167,7 +167,3 @@ enableRobotsTXT = true
     weight = 20
     [languages.de.params.jsonResume]
       present = "heute"
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
