@@ -2,11 +2,11 @@
   <a
     class="logo"
     href="
-    {{- with $.Site.Params.Logo.URL -}}
-      {{- . -}}
-    {{- else -}}
-      {{- $.Site.BaseURL -}}
-    {{- end -}}"
+      {{- with $.Site.Params.Logo.URL -}}
+        {{ . | relURL }}
+      {{- else -}}
+        {{ site.Home.RelPermalink }}
+      {{- end -}}"
   >
     {{ with $.Site.Params.Logo.Text }}
       <div class="logo__text">{{ . }}</div>
