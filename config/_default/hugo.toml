@@ -143,17 +143,17 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
-    pageRef = "blog/"
+    pageRef = "blog"
     weight = 10
   #[[menu.main]]
   #  identifier = "cv"
   #  name = "CV"
-  #  pageRef = "cv/"
+  #  pageRef = "cv"
   #  weight = 20
   [[menu.main]]
     identifier = "about"
     name = "About"
-    pageRef = "about/"
+    pageRef = "about"
     weight = 30
 
 [languages]
